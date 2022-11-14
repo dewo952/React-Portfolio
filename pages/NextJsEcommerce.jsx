@@ -44,14 +44,14 @@ const NextJsEcommerce = () => {
             properties. This is made possible with Zillow API.
           </p>
           <a
-            href='https://github.com/fireclint/property-finder'
+            href=''
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Code</button>
           </a>
           <a
-            href='https://property-finder-development.web.app/'
+            href=''
             target='_blank'
             rel='noreferrer'
           >

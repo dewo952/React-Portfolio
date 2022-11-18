@@ -1,5 +1,5 @@
 import Quote from '../public/assets/projects/QuoteGenerator.jpg'
-import NetFlix from "../public/assets/projects/netflix.jpg";
+import NetFlix from "../public/assets/projects/netflix.png";
 import ProjectItems from "./ProjectItems";
 
 const Projects = () => {
@@ -19,7 +19,7 @@ const Projects = () => {
           />
           <ProjectItems
             title="NextJs Ecommerce Website"
-            backgroundImg={NetFlix}
+            backgroundImg={""}
             projectUrl="/NextJsEcommerce"
             tech="Next JS"
           />
@@ -31,7 +31,8 @@ const Projects = () => {
           />
           <ProjectItems
             title="React-Native Social Media App"
-            backgroundImg={NetFlix}
+            backgroundImg={""}
+            
             projectUrl="/ReactNativeSocialApp"
             tech="React Native"
           />
